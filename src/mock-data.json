@@ -1,0 +1,56 @@
+[
+    {
+     
+      "title": "deployment",
+      "description": "working  and deploying",
+      "status": "on progress"
+    },
+    {
+      
+      "title": "ci/cd",
+      "description": "working on ui part",
+      "status": "on progress"
+    },
+    {
+    
+      "title": "database",
+      "description": "working with db",
+      "status": "completed"
+    },
+    {
+      "title": "backend ",
+      "description": "working ",
+      "status": "on progress"
+    },
+    {
+     
+      "title": "restapi",
+      "description": "working ",
+      "status": "started"
+    },
+    
+      {
+     
+        "title": "design",
+        "description": "working ",
+        "status": "on progress"
+      },
+      
+        {
+     
+          "title": "deployment ",
+      "description": "working ",
+      "status": "on progress"
+        },
+        
+          {
+     
+            "title": "development stage",
+            "description": "working  and deploying",
+            "status": "on progress"
+          }
+        
+      
+    
+  ]
+  

@@ -1,0 +1,23 @@
+
+section{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1px;
+}
+aside{
+    background-color: blue;
+    flex: 0.4;
+    height: 80vh;
+    margin: 1px;
+}
+main{
+    height: 80vh;
+    flex: 0.6;
+}
+
+div{
+    background-color: gray;
+    flex: 1;
+    height: 100px;
+}

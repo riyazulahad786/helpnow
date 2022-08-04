@@ -1,0 +1,51 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: rgb(240, 244, 247);
+}
+
+td {
+  background-color: rgb(170, 181, 189);
+}
+
+form {
+  display: flex;
+  gap: 5px;
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+.btn{
+  background-color: green;
+}
+form * {
+  font-size: 28px;
+}
+.add_contact{
+  text-align: center;
+}
+.postData{
+  left: 100px;
+  top: 40%;
+  position: relative;
+}
